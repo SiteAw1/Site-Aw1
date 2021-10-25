@@ -1,0 +1,99 @@
+body{
+    background-color: #212121;
+}
+.Bios
+{
+    background-color: #191919;
+    height: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Bios_Jogador
+{
+    margin-top: 0px;
+    text-align: center;
+    width: 1000px; /* Valor da Largura do elemento */
+}
+
+.Bios_Tunes
+{
+    background-color: #212121;
+    height: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Cast_Bios
+{
+    margin-top: 0px;
+    text-align: center;
+    width: 1000px; /* Valor da Largura do elemento */
+}
+
+.Foto img
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.Textos
+{
+    margin-top: 20px;
+    color: #ECECEC;
+}
+.Textos #Titulo
+{
+    color: #4053B2;
+}
+
+.Divisões
+{
+    width: 100%;
+    height: 45px;
+    background-color: #2C2C4A;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    padding-top: 12px;
+}
+
+.Bios_Geral
+{
+    height: 320px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+table
+{
+    height: 200px;
+    width: 700px;
+    background-color: #191919;
+    color: white;
+}
+th
+{
+    background-color: #4053B2;
+    width: 400px;
+}
+
+.button
+{
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    color: white;
+    background-color: #4053B2;
+    margin-top: 25px;
+}
