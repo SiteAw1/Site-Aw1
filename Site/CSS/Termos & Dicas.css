@@ -1,0 +1,42 @@
+body{
+    background-color: #212121;
+}
+.Termos_e_Dicas
+{
+    height: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Termos_e_Dicas_2
+{
+    margin-top: 0px;
+    text-align: center;
+    width: 1000px; /* Valor da Largura do elemento */
+}
+
+.Foto img
+{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+}
+
+.Textos
+{
+    margin-top: 20px;
+    color: #ECECEC;
+    text-align: center;
+}
+#Termos_e_Dicas
+{
+    font-size: 40px;
+}
+
+#Sub_Titulos
+{
+    color: #4053B2;
+    margin-bottom: 15px;
+}
